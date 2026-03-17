@@ -1,4 +1,4 @@
-# Welkome to Scanframe 
+# Welcome to Scanframe 
 
 I have build a modular application for inspection systems in the past til 2004.<br>
 The application that I build then I am now building using the Qt6 cross platform library.
