@@ -15,9 +15,7 @@ all from Linux without the need for Windows.
 
 Repositories here are mirrored from the private GitLab CE server where other than only the `main` branch is available.
 
-gitlab: 
-  * https://git.scanframe.com/shared
-  * https://git.scanframe.com/library  
+gitlab: https://git.scanframe.com/shared (https://git.scanframe.com/library)  
 site: www.scanframe.nl  
 e-mail: info@scanframe.nl  
 youtube: https://www.youtube.com/@Scanframe  
